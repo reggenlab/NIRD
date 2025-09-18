@@ -33,16 +33,16 @@ pip install numpy pandas seaborn matplotlib scipy scikit-learn distributed arbor
 ```
  
  version for which it worked : 
-python > 3.0 ; 
-numpy : 1.23.1  ;
-pandas : 1.5.3   ;
-sklearn : 1.1.1   ;
-matplotlib : 3.9.2   ;
-seaborn : 0.13.2   ;
-scipy : 1.8.1   ;
-distributed : 2022.7.0 ;
-argparse : 1.1  ;
-nimfa : 1.4.0  ;
+python > 3.0  ;        
+numpy : 1.23.1  ;     
+pandas : 1.5.3   ;     
+sklearn : 1.1.1   ;     
+matplotlib : 3.9.2   ;    
+seaborn : 0.13.2   ;    
+scipy : 1.8.1   ;    
+distributed : 2022.7.0 ;    
+ argparse : 1.1  ;     
+nimfa : 1.4.0  ;     
 
 ## Input Data format
 

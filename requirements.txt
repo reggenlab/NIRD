@@ -8,3 +8,4 @@ distributed==2022.7.0
 nimfa==1.4.0
 networkx==2.8.8
 arboreto==0.1.6
+pygsp==0.5.1
